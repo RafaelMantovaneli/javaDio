@@ -1,3 +1,4 @@
+package Singleton;
 
 public class SingletonLazyHolder {
 
